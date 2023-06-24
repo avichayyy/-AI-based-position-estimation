@@ -17,3 +17,7 @@ In the picture above it is possible to see the RF catcher that was used in the p
 we wanted the model to be simple, yet accurate, and genaralizable enough to be able predict the location as good as we can get with the dataset:
  -- picture --
  Total of 8 convolution layers and 3 fully connected layers.
+
+ # Results comparing
+ ![image](https://github.com/avichayyy/-AI-based-position-estimation/assets/129785797/2258e7a9-4ff4-4574-933b-37a371ac18d1)
+
