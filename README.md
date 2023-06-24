@@ -14,7 +14,6 @@ Features histogram:
 ![image](https://github.com/avichayyy/-AI-based-position-estimation/assets/129785797/bdd48c5b-fe40-41de-907e-fa5b7d316b59)
 
 Number of activations for each feature:
-
 ![image](https://github.com/avichayyy/-AI-based-position-estimation/assets/129785797/f535a118-aed2-4dbc-bbd6-82e550700b41)
 
 * Number of samples: 36,119
