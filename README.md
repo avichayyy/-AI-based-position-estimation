@@ -15,4 +15,5 @@ In the picture above it is possible to see the RF catcher that was used in the p
 
 # Proposed CNN model
 we wanted the model to be simple, yet accurate, and genaralizable enough to be able predict the location as good as we can get with the dataset:
-
+ -- picture --
+ Total of 8 convolution layers and 3 fully connected layers.
