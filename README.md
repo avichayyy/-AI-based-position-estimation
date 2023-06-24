@@ -2,7 +2,7 @@
 Repository for deep learning course project - AI based position estimation based on radio frequency Project
 
 # About
-the scope of the project is cellular based UE localization for non-synchronized network power based approaches. The traditional approach(GPS) are triangulation based, those approaches rely on range estimation from known locations and it dependent on general consistent power range model. Such models is not accurate for some cases duo to Multi-Path / fading + low probability to detect more than one cell tower, localization is reduced to strongest cell or sector in the area and the error is dependent on the cell tower density.
+the scope of the project is cellular based UE localization for non-synchronized network power based approaches. The traditional approach(GPS) are triangulation based, those approaches rely on range estimation from known locations and it dependent on general consistent power range model. Such models is not accurate for some cases duo to Multi-Path / fading + low probability to detect more than one cell tower, localization is reduced to strongest cell or sector in the area and the error is dependent on the cell tower density. In the original project the best results were achieved using decision trees. In our project we are going to try to improve the results using CNN architectures.
 
 # Dataset Collection
 In our project we take data collected by RF catcher in a neighborhood in Tel-Aviv, we process the data from the machine and we try to estimate the location of the ue based on the parameters it transmitted using deep convolutional neural network.
@@ -13,4 +13,6 @@ In the picture above it is possible to see the RF catcher that was used in the p
 * Number of samples: 36,119
 * train / test split: 85% / 15%
 
-In the original project the best results were achieved using decision trees. In our project we are going to try to improve the results using CNN architectures and incase it wont work we will try Fully connected approach as well.
+# Proposed CNN model
+we wanted the model to be simple, yet accurate, and genaralizable enough to be able predict the location as good as we can get with the dataset:
+
