@@ -36,3 +36,12 @@ we wanted the model to be simple, yet accurate, and genaralizable enough to be a
  # Results comparing
  ![image](https://github.com/avichayyy/-AI-based-position-estimation/assets/129785797/2258e7a9-4ff4-4574-933b-37a371ac18d1)
 
+ ![image](https://github.com/avichayyy/-AI-based-position-estimation/assets/129785797/5c7c7ccb-ef91-4353-9999-15c908a793d1)
+
+![image](https://github.com/avichayyy/-AI-based-position-estimation/assets/129785797/b344d684-5195-4793-899d-a4847f119d98)
+
+The following graph show the error of each test sample based on error range:
+ ![image](https://github.com/avichayyy/-AI-based-position-estimation/assets/129785797/96464079-b10e-45a7-8310-a69046d512b4)
+
+
+
