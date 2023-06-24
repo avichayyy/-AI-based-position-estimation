@@ -30,7 +30,9 @@ Number of activations for each feature:
 
 # Proposed CNN model
 we wanted the model to be simple, yet accurate, and genaralizable enough to be able predict the location as good as we can get with the dataset:
- -- picture --
+
+ ![image](https://github.com/avichayyy/-AI-based-position-estimation/assets/129785797/daac2627-fb61-4c48-b344-d793bd9ad0b2)
+
  Total of 8 convolution layers and 3 fully connected layers.
 
  # Results comparing
