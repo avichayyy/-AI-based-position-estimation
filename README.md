@@ -10,5 +10,7 @@ In our project we take data collected by RF catcher in a neighborhood in Tel-Avi
 In the picture above it is possible to see the RF catcher that was used in the process of collecting the dataset. In addition in the picture it is possible to see the routes that were traveled in Tel-Aviv while holding the RF catcher. The RF catcher transmit once a frame and this data was later processed to features that we can use for our project (WB SNR, NB CNR, CIR…). 
 
 # Dataset Info
-* The dataset contain 
+* Number of samples: 36,119
+* train / test split: 85% / 15%
+
 In the original project the best results were achieved using decision trees. In our project we are going to try to improve the results using CNN architectures and incase it wont work we will try Fully connected approach as well.
