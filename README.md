@@ -13,7 +13,12 @@ In the picture above it is possible to see the RF catcher that was used in the p
 * Number of samples: 36,119
 * Number of feature: 96
 * train / test split: 85% / 15%
-  
+
+Typical sample when each feature is most dominant:
+
+![image](https://github.com/avichayyy/-AI-based-position-estimation/assets/129785797/d22691ae-5611-4285-83c5-23522107d437)
+
+
 Features histogram:
 
 ![image](https://github.com/avichayyy/-AI-based-position-estimation/assets/129785797/bdd48c5b-fe40-41de-907e-fa5b7d316b59)
