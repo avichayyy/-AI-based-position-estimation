@@ -36,7 +36,7 @@ we wanted the model to be simple, yet accurate, and genaralizable enough to be a
  Total of 8 convolution layers and 3 fully connected layers.
 
  # Results comparing
- ![image](https://github.com/avichayyy/-AI-based-position-estimation/assets/129785797/2258e7a9-4ff4-4574-933b-37a371ac18d1)
+![image](https://github.com/avichayyy/-AI-based-position-estimation/assets/129785797/8d0d5e2d-9f70-45ec-ad0e-701e40a1bbcc)
 
  ![image](https://github.com/avichayyy/-AI-based-position-estimation/assets/129785797/5c7c7ccb-ef91-4353-9999-15c908a793d1)
 
