@@ -45,5 +45,10 @@ we wanted the model to be simple, yet accurate, and genaralizable enough to be a
 The following graph show the error of each test sample based on error range:
  ![image](https://github.com/avichayyy/-AI-based-position-estimation/assets/129785797/96464079-b10e-45a7-8310-a69046d512b4)
 
+ # Future Work
+ - Different Augmentions - We tried adding gausian noise to the dataset, but this didnt improve the results, other models can be tested.
+ - feature normalization - duo to lack of time we didnt get to try it, but considering the features analysis, this might improve the results.
+ - further training - duo to GPU limit we couldnt keep training the model, further training might improve the results.
+
 # Acknowledgement
 * Sony Israel for handing us the dataset and allowing us to work on this project.
